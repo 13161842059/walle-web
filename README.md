@@ -14,5 +14,5 @@ git remote add origin git@git.internet.hirpc.com:cc/walle-web.git
 git push -u origin master  
 
 
-#Walle实现自动发布教程
-https://www.jianshu.com/p/c4e54d53d631
+# Walle实现自动发布教程
+https://www.jianshu.com/p/c4e54d53d631  
